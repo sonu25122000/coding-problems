@@ -1,4 +1,5 @@
-class Solution
+//https://practice.geeksforgeeks.org/problems/simple-interest3457/1#
+class solution
 {
 	public:
 		long long int find_fact(int n)
